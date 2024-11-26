@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gerenciamento de livros/Gerenciamento de livros.iml" filepath="$PROJECT_DIR$/Gerenciamento de livros/Gerenciamento de livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gerenciar  livros/Gerenciamneto de livros.iml" filepath="$PROJECT_DIR$/Gerenciar  livros/Gerenciamneto de livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO JAVA.iml" filepath="$PROJECT_DIR$/.idea/POO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJECT VENDAS/PROJECT VENDAS.iml" filepath="$PROJECT_DIR$/PROJECT VENDAS/PROJECT VENDAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vendas/Vendas.iml" filepath="$PROJECT_DIR$/Vendas/Vendas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biblioteca projeto/biblioteca projeto.iml" filepath="$PROJECT_DIR$/biblioteca projeto/biblioteca projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste vendas/teste vendas.iml" filepath="$PROJECT_DIR$/teste vendas/teste vendas.iml" />
+    </modules>
+  </component>
+</project>
